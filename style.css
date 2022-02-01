@@ -1,0 +1,19 @@
+table.tabla1{
+    border: red 1px solid;
+}
+
+
+table.tabla2{
+    border: red 1px solid;
+}
+
+
+th.azul{
+    border: blue 1px solid ;
+}
+
+
+table.tabla3{
+    border: green 1px solid;
+    width: 50%;
+}
